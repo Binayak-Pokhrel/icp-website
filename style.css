@@ -8,6 +8,7 @@
 body {
     background-image: url("pic/2.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
     overflow: auto;
 }
 
@@ -30,9 +31,17 @@ nav a:active{
     color: white;
 }
 
+.content a img {
+    margin: 70px 100px;
+}
+
+.content a img:hover{
+    border: 3px solid yellow;
+}
+
 footer p{
     text-align: center;
-    margin-top: 500px ;
+    margin-top: 600px ;
     margin-bottom:10px;
 }
 
@@ -41,3 +50,18 @@ footer p:hover{
     font-family: Arial, Helvetica, sans-serif;
 
 }
+
+.content p{
+    margin: 15px 5px 100px 25px;
+    padding-top: 100px;
+    
+    color: black;
+
+}
+.content h2 {
+    color: black;
+   margin-right: auto;
+   margin-left: 4px:
+   
+}
+
