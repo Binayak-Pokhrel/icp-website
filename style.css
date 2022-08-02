@@ -32,7 +32,8 @@ nav a:active{
 }
 
 .content a img {
-    margin: 70px 100px;
+    padding: 5px;
+    margin: 40px 70px 20px 40px;
 }
 
 .content a img:hover{
@@ -51,17 +52,8 @@ footer p:hover{
 
 }
 
-.content p{
-    margin: 15px 5px 100px 25px;
-    padding-top: 100px;
-    
-    color: black;
-
+.content .program{
+    background-color: white;
+    padding: 10px;
+    margin-top: 50px;
 }
-.content h2 {
-    color: black;
-   margin-right: auto;
-   margin-left: 4px:
-   
-}
-
